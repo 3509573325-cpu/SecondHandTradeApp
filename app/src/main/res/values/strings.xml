@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CampusSecondHand</string>
+    <!-- 登录页相关 -->
+    <string name="app_title">校园二手交易平台</string>
+    <string name="input_phone">手机号</string>
+    <string name="input_password">密码</string>
+    <string name="login">登录</string>
+    <string name="login_loading">登录中…</string>
+    <string name="login_success">登录成功！</string>
+    <string name="go_to_register">没有账号？去注册</string>
+
+    <!-- 注册页相关文案 -->
+    <string name="register_title">用户注册</string>
+    <string name="input_user_name">用户名</string>
+    <string name="input_confirm_password">确认密码</string>
+    <string name="register">完成注册</string>
+    <string name="register_loading">注册中…</string>
+    <string name="go_to_login">已有账号？返回登录</string>
+    <string name="register_success">注册成功！请登录</string>
+    <string name="user_name_error_invalid">用户名2–10位（中文/字母/数字）</string>
+    <string name="confirm_pwd_error_mismatch">两次密码不一致</string>
+
+    <!-- 验证错误提示 -->
+    <string name="phone_error_invalid">请输入11位有效手机号</string>
+    <string name="pwd_error_min_length">密码至少6位，仅含字母/数字</string>
+
+    <string name="loading">加载中…</string>
+
+
+
+</resources>
